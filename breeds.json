@@ -6,7 +6,7 @@
       "average_lifespan": 12,
       "is_popular": true,
       "origin_date": "1800-01-01",
-      "image_url": "https://example.com/labrador.jpg",
+      "image_url": "https://github.com/s163576/projectjsonbestanden/blob/main/images/germanshepherd.jpeg?raw=true",
       "size": "large",
       "temperament": ["vriendelijk", "intelligent", "actief"],
       "characteristics": {
@@ -24,7 +24,7 @@
       "average_lifespan": 10,
       "is_popular": true,
       "origin_date": "1899-01-01",
-      "image_url": "https://example.com/duitse-herder.jpg",
+      "image_url": "https://github.com/s163576/projectjsonbestanden/blob/main/images/goldenretriever.jpeg?raw=true",
       "size": "large",
       "temperament": ["loyaal", "moedig", "intelligent"],
       "characteristics": {
