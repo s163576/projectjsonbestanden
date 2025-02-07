@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "name": "Sophie Janssens",
+      "description": "Een dierenliefhebber die haar Labrador Retriever overal mee naartoe neemt.",
+      "age": 34,
+      "is_active": true,
+      "birth_date": "1990-05-21",
+      "profile_image": "https://example.com/sophie.jpg",
+      "gender": "female",
+      "hobbies": ["wandelen", "fotografie", "hondentraining"],
+      "dog": {
+        "id": 1,
+        "name": "Max",
+        "breed_id": 1,
+        "age": 4,
+        "is_vaccinated": true,
+        "image_url": "https://example.com/max.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Tom Peeters",
+      "description": "Tom is een sportieve man die graag met zijn Duitse Herder gaat joggen.",
+      "age": 28,
+      "is_active": true,
+      "birth_date": "1996-08-12",
+      "profile_image": "https://example.com/tom.jpg",
+      "gender": "male",
+      "hobbies": ["joggen", "mountainbiken", "koken"],
+      "dog": {
+        "id": 2,
+        "name": "Rex",
+        "breed_id": 2,
+        "age": 5,
+        "is_vaccinated": true,
+        "image_url": "https://example.com/rex.jpg"
+      }
+    }
+  ]
+  

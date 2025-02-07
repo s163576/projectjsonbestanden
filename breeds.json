@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Labrador Retriever",
+      "description": "De Labrador Retriever is een vriendelijk en intelligent hondenras dat bekend staat om zijn speelse en sociale karakter.",
+      "average_lifespan": 12,
+      "is_popular": true,
+      "origin_date": "1800-01-01",
+      "image_url": "https://example.com/labrador.jpg",
+      "size": "large",
+      "temperament": ["vriendelijk", "intelligent", "actief"],
+      "characteristics": {
+        "id": 101,
+        "energy_level": 5,
+        "good_with_children": true,
+        "shedding_level": 3,
+        "barking_tendency": 2
+      }
+    },
+    {
+      "id": 2,
+      "name": "Duitse Herder",
+      "description": "Een loyaal en intelligent ras dat vaak wordt gebruikt als politie- en diensthond.",
+      "average_lifespan": 10,
+      "is_popular": true,
+      "origin_date": "1899-01-01",
+      "image_url": "https://example.com/duitse-herder.jpg",
+      "size": "large",
+      "temperament": ["loyaal", "moedig", "intelligent"],
+      "characteristics": {
+        "id": 102,
+        "energy_level": 5,
+        "good_with_children": true,
+        "shedding_level": 4,
+        "barking_tendency": 3
+      }
+    }
+  ]
+  
